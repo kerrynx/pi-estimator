@@ -1,4 +1,4 @@
-me: Unit tests with pytest
+name: Unit tests with pytest
 on: [push]
 
 jobs:
